@@ -1,0 +1,20 @@
+{
+  "series": "Retail and food services total (44X72), not seasonally adjusted, $ millions",
+  "data_through": "2026-08",
+  "best_model": "SARIMA(0,1,1)(0,1,1)12, log",
+  "mape_pct_by_model": {
+    "SARIMA(0,1,1)(0,1,1)12, log": 1.41,
+    "ETS damped trend, mult. season": 1.47,
+    "Holt-Winters (add. trend, mult. season)": 1.52,
+    "SARIMA + COVID dummies": 1.72,
+    "Seasonal naive + last YoY growth": 2.66,
+    "Seasonal naive (same month last year)": 3.06,
+    "Naive (last month)": 10.25
+  },
+  "best_beats_seasonal_naive_mape_by_pct": 54.0,
+  "forecast_period": "2026-09 to 2027-08",
+  "forecast_total_busd": 8999.3,
+  "forecast_growth_vs_last_12m_pct": 4.7,
+  "last_12m_total_busd": 8596.3,
+  "interval": "80% prediction interval for each month (not for the 12-month total)"
+}

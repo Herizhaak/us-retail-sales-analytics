@@ -1,0 +1,8 @@
+model,mae_busd,mape_pct,annual_total_error_pct
+"SARIMA(0,1,1)(0,1,1)12, log",8.37,1.41,0.39
+"ETS damped trend, mult. season",8.44,1.47,-0.73
+"Holt-Winters (add. trend, mult. season)",8.86,1.52,-0.85
+SARIMA + COVID dummies,10.47,1.72,0.82
+Seasonal naive + last YoY growth,16.48,2.66,0.9
+Seasonal naive (same month last year),17.18,3.06,-2.87
+Naive (last month),56.23,10.25,9.32

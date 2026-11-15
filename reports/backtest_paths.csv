@@ -1,0 +1,673 @@
+origin,model,month,forecast_musd,actual_musd
+2016-12,Naive (last month),2017-01-01,526790.0,415443
+2016-12,Naive (last month),2017-02-01,526790.0,411212
+2016-12,Naive (last month),2017-03-01,526790.0,474549
+2016-12,Naive (last month),2017-04-01,526790.0,457744
+2016-12,Naive (last month),2017-05-01,526790.0,485658
+2016-12,Naive (last month),2017-06-01,526790.0,473145
+2016-12,Naive (last month),2017-07-01,526790.0,467247
+2016-12,Naive (last month),2017-08-01,526790.0,481435
+2016-12,Naive (last month),2017-09-01,526790.0,461399
+2016-12,Naive (last month),2017-10-01,526790.0,467634
+2016-12,Naive (last month),2017-11-01,526790.0,487388
+2016-12,Naive (last month),2017-12-01,526790.0,544897
+2016-12,Seasonal naive (same month last year),2017-01-01,395277.0,415443
+2016-12,Seasonal naive (same month last year),2017-02-01,407556.0,411212
+2016-12,Seasonal naive (same month last year),2017-03-01,452445.0,474549
+2016-12,Seasonal naive (same month last year),2017-04-01,443027.0,457744
+2016-12,Seasonal naive (same month last year),2017-05-01,461576.0,485658
+2016-12,Seasonal naive (same month last year),2017-06-01,456090.0,473145
+2016-12,Seasonal naive (same month last year),2017-07-01,454087.0,467247
+2016-12,Seasonal naive (same month last year),2017-08-01,463126.0,481435
+2016-12,Seasonal naive (same month last year),2017-09-01,440295.0,461399
+2016-12,Seasonal naive (same month last year),2017-10-01,445071.0,467634
+2016-12,Seasonal naive (same month last year),2017-11-01,458023.0,487388
+2016-12,Seasonal naive (same month last year),2017-12-01,526790.0,544897
+2016-12,Seasonal naive + last YoY growth,2017-01-01,406901.0,415443
+2016-12,Seasonal naive + last YoY growth,2017-02-01,419541.0,411212
+2016-12,Seasonal naive + last YoY growth,2017-03-01,465750.0,474549
+2016-12,Seasonal naive + last YoY growth,2017-04-01,456055.0,457744
+2016-12,Seasonal naive + last YoY growth,2017-05-01,475149.0,485658
+2016-12,Seasonal naive + last YoY growth,2017-06-01,469502.0,473145
+2016-12,Seasonal naive + last YoY growth,2017-07-01,467440.0,467247
+2016-12,Seasonal naive + last YoY growth,2017-08-01,476745.0,481435
+2016-12,Seasonal naive + last YoY growth,2017-09-01,453242.0,461399
+2016-12,Seasonal naive + last YoY growth,2017-10-01,458159.0,467634
+2016-12,Seasonal naive + last YoY growth,2017-11-01,471492.0,487388
+2016-12,Seasonal naive + last YoY growth,2017-12-01,542281.0,544897
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-01-01,416133.0,415443
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-02-01,417000.0,411212
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-03-01,470967.0,474549
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-04-01,461978.0,457744
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-05-01,487003.0,485658
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-06-01,472210.0,473145
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-07-01,475928.0,467247
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-08-01,484779.0,481435
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-09-01,453943.0,461399
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-10-01,466588.0,467634
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-11-01,473372.0,487388
+2016-12,"SARIMA(0,1,1)(0,1,1)12, log",2017-12-01,543502.0,544897
+2016-12,SARIMA + COVID dummies,2017-01-01,416133.0,415443
+2016-12,SARIMA + COVID dummies,2017-02-01,417000.0,411212
+2016-12,SARIMA + COVID dummies,2017-03-01,470967.0,474549
+2016-12,SARIMA + COVID dummies,2017-04-01,461978.0,457744
+2016-12,SARIMA + COVID dummies,2017-05-01,487003.0,485658
+2016-12,SARIMA + COVID dummies,2017-06-01,472210.0,473145
+2016-12,SARIMA + COVID dummies,2017-07-01,475928.0,467247
+2016-12,SARIMA + COVID dummies,2017-08-01,484779.0,481435
+2016-12,SARIMA + COVID dummies,2017-09-01,453943.0,461399
+2016-12,SARIMA + COVID dummies,2017-10-01,466588.0,467634
+2016-12,SARIMA + COVID dummies,2017-11-01,473372.0,487388
+2016-12,SARIMA + COVID dummies,2017-12-01,543502.0,544897
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-01-01,417846.0,415443
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-02-01,418231.0,411212
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-03-01,470649.0,474549
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-04-01,460508.0,457744
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-05-01,484693.0,485658
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-06-01,469902.0,473145
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-07-01,473573.0,467247
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-08-01,482463.0,481435
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-09-01,451178.0,461399
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-10-01,462567.0,467634
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-11-01,468660.0,487388
+2016-12,"Holt-Winters (add. trend, mult. season)",2017-12-01,537572.0,544897
+2016-12,"ETS damped trend, mult. season",2017-01-01,417724.0,415443
+2016-12,"ETS damped trend, mult. season",2017-02-01,417908.0,411212
+2016-12,"ETS damped trend, mult. season",2017-03-01,470108.0,474549
+2016-12,"ETS damped trend, mult. season",2017-04-01,459810.0,457744
+2016-12,"ETS damped trend, mult. season",2017-05-01,483815.0,485658
+2016-12,"ETS damped trend, mult. season",2017-06-01,468954.0,473145
+2016-12,"ETS damped trend, mult. season",2017-07-01,472492.0,467247
+2016-12,"ETS damped trend, mult. season",2017-08-01,481242.0,481435
+2016-12,"ETS damped trend, mult. season",2017-09-01,449818.0,461399
+2016-12,"ETS damped trend, mult. season",2017-10-01,461028.0,467634
+2016-12,"ETS damped trend, mult. season",2017-11-01,466919.0,487388
+2016-12,"ETS damped trend, mult. season",2017-12-01,535498.0,544897
+2017-12,Naive (last month),2018-01-01,544897.0,437090
+2017-12,Naive (last month),2018-02-01,544897.0,427608
+2017-12,Naive (last month),2018-03-01,544897.0,499435
+2017-12,Naive (last month),2018-04-01,544897.0,471987
+2017-12,Naive (last month),2018-05-01,544897.0,519069
+2017-12,Naive (last month),2018-06-01,544897.0,498466
+2017-12,Naive (last month),2018-07-01,544897.0,496495
+2017-12,Naive (last month),2018-08-01,544897.0,511535
+2017-12,Naive (last month),2018-09-01,544897.0,468960
+2017-12,Naive (last month),2018-10-01,544897.0,494769
+2017-12,Naive (last month),2018-11-01,544897.0,509230
+2017-12,Naive (last month),2018-12-01,544897.0,546429
+2017-12,Seasonal naive (same month last year),2018-01-01,415443.0,437090
+2017-12,Seasonal naive (same month last year),2018-02-01,411212.0,427608
+2017-12,Seasonal naive (same month last year),2018-03-01,474549.0,499435
+2017-12,Seasonal naive (same month last year),2018-04-01,457744.0,471987
+2017-12,Seasonal naive (same month last year),2018-05-01,485658.0,519069
+2017-12,Seasonal naive (same month last year),2018-06-01,473145.0,498466
+2017-12,Seasonal naive (same month last year),2018-07-01,467247.0,496495
+2017-12,Seasonal naive (same month last year),2018-08-01,481435.0,511535
+2017-12,Seasonal naive (same month last year),2018-09-01,461399.0,468960
+2017-12,Seasonal naive (same month last year),2018-10-01,467634.0,494769
+2017-12,Seasonal naive (same month last year),2018-11-01,487388.0,509230
+2017-12,Seasonal naive (same month last year),2018-12-01,544897.0,546429
+2017-12,Seasonal naive + last YoY growth,2018-01-01,432695.0,437090
+2017-12,Seasonal naive + last YoY growth,2018-02-01,428289.0,427608
+2017-12,Seasonal naive + last YoY growth,2018-03-01,494256.0,499435
+2017-12,Seasonal naive + last YoY growth,2018-04-01,476753.0,471987
+2017-12,Seasonal naive + last YoY growth,2018-05-01,505826.0,519069
+2017-12,Seasonal naive + last YoY growth,2018-06-01,492794.0,498466
+2017-12,Seasonal naive + last YoY growth,2018-07-01,486651.0,496495
+2017-12,Seasonal naive + last YoY growth,2018-08-01,501428.0,511535
+2017-12,Seasonal naive + last YoY growth,2018-09-01,480560.0,468960
+2017-12,Seasonal naive + last YoY growth,2018-10-01,487054.0,494769
+2017-12,Seasonal naive + last YoY growth,2018-11-01,507628.0,509230
+2017-12,Seasonal naive + last YoY growth,2018-12-01,567525.0,546429
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-01-01,434646.0,437090
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-02-01,434287.0,427608
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-03-01,493015.0,499435
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-04-01,481668.0,471987
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-05-01,508535.0,519069
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-06-01,493644.0,498466
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-07-01,495121.0,496495
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-08-01,505703.0,511535
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-09-01,476188.0,468960
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-10-01,487805.0,494769
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-11-01,498098.0,509230
+2017-12,"SARIMA(0,1,1)(0,1,1)12, log",2018-12-01,568250.0,546429
+2017-12,SARIMA + COVID dummies,2018-01-01,434646.0,437090
+2017-12,SARIMA + COVID dummies,2018-02-01,434287.0,427608
+2017-12,SARIMA + COVID dummies,2018-03-01,493015.0,499435
+2017-12,SARIMA + COVID dummies,2018-04-01,481668.0,471987
+2017-12,SARIMA + COVID dummies,2018-05-01,508535.0,519069
+2017-12,SARIMA + COVID dummies,2018-06-01,493644.0,498466
+2017-12,SARIMA + COVID dummies,2018-07-01,495121.0,496495
+2017-12,SARIMA + COVID dummies,2018-08-01,505703.0,511535
+2017-12,SARIMA + COVID dummies,2018-09-01,476188.0,468960
+2017-12,SARIMA + COVID dummies,2018-10-01,487805.0,494769
+2017-12,SARIMA + COVID dummies,2018-11-01,498098.0,509230
+2017-12,SARIMA + COVID dummies,2018-12-01,568250.0,546429
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-01-01,434991.0,437090
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-02-01,435131.0,427608
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-03-01,493039.0,499435
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-04-01,480228.0,471987
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-05-01,506434.0,519069
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-06-01,491000.0,498466
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-07-01,492282.0,496495
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-08-01,503346.0,511535
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-09-01,473273.0,468960
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-10-01,482584.0,494769
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-11-01,491726.0,509230
+2017-12,"Holt-Winters (add. trend, mult. season)",2018-12-01,560664.0,546429
+2017-12,"ETS damped trend, mult. season",2018-01-01,435140.0,437090
+2017-12,"ETS damped trend, mult. season",2018-02-01,435326.0,427608
+2017-12,"ETS damped trend, mult. season",2018-03-01,493255.0,499435
+2017-12,"ETS damped trend, mult. season",2018-04-01,480464.0,471987
+2017-12,"ETS damped trend, mult. season",2018-05-01,506687.0,519069
+2017-12,"ETS damped trend, mult. season",2018-06-01,491264.0,498466
+2017-12,"ETS damped trend, mult. season",2018-07-01,492609.0,496495
+2017-12,"ETS damped trend, mult. season",2018-08-01,503709.0,511535
+2017-12,"ETS damped trend, mult. season",2018-09-01,473549.0,468960
+2017-12,"ETS damped trend, mult. season",2018-10-01,482862.0,494769
+2017-12,"ETS damped trend, mult. season",2018-11-01,491928.0,509230
+2017-12,"ETS damped trend, mult. season",2018-12-01,560972.0,546429
+2018-12,Naive (last month),2019-01-01,546429.0,447933
+2018-12,Naive (last month),2019-02-01,546429.0,433826
+2018-12,Naive (last month),2019-03-01,546429.0,504478
+2018-12,Naive (last month),2019-04-01,546429.0,497579
+2018-12,Naive (last month),2019-05-01,546429.0,534165
+2018-12,Naive (last month),2019-06-01,546429.0,505762
+2018-12,Naive (last month),2019-07-01,546429.0,519231
+2018-12,Naive (last month),2019-08-01,546429.0,532426
+2018-12,Naive (last month),2019-09-01,546429.0,483841
+2018-12,Naive (last month),2019-10-01,546429.0,512356
+2018-12,Naive (last month),2019-11-01,546429.0,522446
+2018-12,Naive (last month),2019-12-01,546429.0,575668
+2018-12,Seasonal naive (same month last year),2019-01-01,437090.0,447933
+2018-12,Seasonal naive (same month last year),2019-02-01,427608.0,433826
+2018-12,Seasonal naive (same month last year),2019-03-01,499435.0,504478
+2018-12,Seasonal naive (same month last year),2019-04-01,471987.0,497579
+2018-12,Seasonal naive (same month last year),2019-05-01,519069.0,534165
+2018-12,Seasonal naive (same month last year),2019-06-01,498466.0,505762
+2018-12,Seasonal naive (same month last year),2019-07-01,496495.0,519231
+2018-12,Seasonal naive (same month last year),2019-08-01,511535.0,532426
+2018-12,Seasonal naive (same month last year),2019-09-01,468960.0,483841
+2018-12,Seasonal naive (same month last year),2019-10-01,494769.0,512356
+2018-12,Seasonal naive (same month last year),2019-11-01,509230.0,522446
+2018-12,Seasonal naive (same month last year),2019-12-01,546429.0,575668
+2018-12,Seasonal naive + last YoY growth,2019-01-01,456765.0,447933
+2018-12,Seasonal naive + last YoY growth,2019-02-01,446856.0,433826
+2018-12,Seasonal naive + last YoY growth,2019-03-01,521916.0,504478
+2018-12,Seasonal naive + last YoY growth,2019-04-01,493233.0,497579
+2018-12,Seasonal naive + last YoY growth,2019-05-01,542434.0,534165
+2018-12,Seasonal naive + last YoY growth,2019-06-01,520903.0,505762
+2018-12,Seasonal naive + last YoY growth,2019-07-01,518844.0,519231
+2018-12,Seasonal naive + last YoY growth,2019-08-01,534561.0,532426
+2018-12,Seasonal naive + last YoY growth,2019-09-01,490069.0,483841
+2018-12,Seasonal naive + last YoY growth,2019-10-01,517040.0,512356
+2018-12,Seasonal naive + last YoY growth,2019-11-01,532152.0,522446
+2018-12,Seasonal naive + last YoY growth,2019-12-01,571025.0,575668
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-01-01,446467.0,447933
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-02-01,443812.0,433826
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-03-01,507378.0,504478
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-04-01,491641.0,497579
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-05-01,524275.0,534165
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-06-01,507585.0,505762
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-07-01,508207.0,519231
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-08-01,520174.0,532426
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-09-01,486717.0,483841
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-10-01,502150.0,512356
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-11-01,513819.0,522446
+2018-12,"SARIMA(0,1,1)(0,1,1)12, log",2019-12-01,577351.0,575668
+2018-12,SARIMA + COVID dummies,2019-01-01,446467.0,447933
+2018-12,SARIMA + COVID dummies,2019-02-01,443812.0,433826
+2018-12,SARIMA + COVID dummies,2019-03-01,507378.0,504478
+2018-12,SARIMA + COVID dummies,2019-04-01,491641.0,497579
+2018-12,SARIMA + COVID dummies,2019-05-01,524275.0,534165
+2018-12,SARIMA + COVID dummies,2019-06-01,507585.0,505762
+2018-12,SARIMA + COVID dummies,2019-07-01,508207.0,519231
+2018-12,SARIMA + COVID dummies,2019-08-01,520174.0,532426
+2018-12,SARIMA + COVID dummies,2019-09-01,486717.0,483841
+2018-12,SARIMA + COVID dummies,2019-10-01,502150.0,512356
+2018-12,SARIMA + COVID dummies,2019-11-01,513819.0,522446
+2018-12,SARIMA + COVID dummies,2019-12-01,577351.0,575668
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-01-01,445340.0,447933
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-02-01,442883.0,433826
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-03-01,507439.0,504478
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-04-01,489413.0,497579
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-05-01,523008.0,534165
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-06-01,504020.0,505762
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-07-01,503554.0,519231
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-08-01,516028.0,532426
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-09-01,482613.0,483841
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-10-01,497262.0,512356
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-11-01,507138.0,522446
+2018-12,"Holt-Winters (add. trend, mult. season)",2019-12-01,572311.0,575668
+2018-12,"ETS damped trend, mult. season",2019-01-01,445312.0,447933
+2018-12,"ETS damped trend, mult. season",2019-02-01,442882.0,433826
+2018-12,"ETS damped trend, mult. season",2019-03-01,507398.0,504478
+2018-12,"ETS damped trend, mult. season",2019-04-01,489370.0,497579
+2018-12,"ETS damped trend, mult. season",2019-05-01,522889.0,534165
+2018-12,"ETS damped trend, mult. season",2019-06-01,503839.0,505762
+2018-12,"ETS damped trend, mult. season",2019-07-01,503348.0,519231
+2018-12,"ETS damped trend, mult. season",2019-08-01,515786.0,532426
+2018-12,"ETS damped trend, mult. season",2019-09-01,482344.0,483841
+2018-12,"ETS damped trend, mult. season",2019-10-01,496885.0,512356
+2018-12,"ETS damped trend, mult. season",2019-11-01,506600.0,522446
+2018-12,"ETS damped trend, mult. season",2019-12-01,571653.0,575668
+2022-12,Naive (last month),2023-01-01,716752.0,609481
+2022-12,Naive (last month),2023-02-01,716752.0,587988
+2022-12,Naive (last month),2023-03-01,716752.0,670460
+2022-12,Naive (last month),2023-04-01,716752.0,652055
+2022-12,Naive (last month),2023-05-01,716752.0,696485
+2022-12,Naive (last month),2023-06-01,716752.0,675653
+2022-12,Naive (last month),2023-07-01,716752.0,668702
+2022-12,Naive (last month),2023-08-01,716752.0,689161
+2022-12,Naive (last month),2023-09-01,716752.0,652547
+2022-12,Naive (last month),2023-10-01,716752.0,666746
+2022-12,Naive (last month),2023-11-01,716752.0,674963
+2022-12,Naive (last month),2023-12-01,716752.0,728144
+2022-12,Seasonal naive (same month last year),2023-01-01,572890.0,609481
+2022-12,Seasonal naive (same month last year),2023-02-01,566039.0,587988
+2022-12,Seasonal naive (same month last year),2023-03-01,666105.0,670460
+2022-12,Seasonal naive (same month last year),2023-04-01,665943.0,652055
+2022-12,Seasonal naive (same month last year),2023-05-01,687716.0,696485
+2022-12,Seasonal naive (same month last year),2023-06-01,678285.0,675653
+2022-12,Seasonal naive (same month last year),2023-07-01,669553.0,668702
+2022-12,Seasonal naive (same month last year),2023-08-01,681612.0,689161
+2022-12,Seasonal naive (same month last year),2023-09-01,643382.0,652547
+2022-12,Seasonal naive (same month last year),2023-10-01,663619.0,666746
+2022-12,Seasonal naive (same month last year),2023-11-01,663414.0,674963
+2022-12,Seasonal naive (same month last year),2023-12-01,716752.0,728144
+2022-12,Seasonal naive + last YoY growth,2023-01-01,623937.0,609481
+2022-12,Seasonal naive + last YoY growth,2023-02-01,616476.0,587988
+2022-12,Seasonal naive + last YoY growth,2023-03-01,725458.0,670460
+2022-12,Seasonal naive + last YoY growth,2023-04-01,725281.0,652055
+2022-12,Seasonal naive + last YoY growth,2023-05-01,748995.0,696485
+2022-12,Seasonal naive + last YoY growth,2023-06-01,738723.0,675653
+2022-12,Seasonal naive + last YoY growth,2023-07-01,729213.0,668702
+2022-12,Seasonal naive + last YoY growth,2023-08-01,742347.0,689161
+2022-12,Seasonal naive + last YoY growth,2023-09-01,700710.0,652547
+2022-12,Seasonal naive + last YoY growth,2023-10-01,722750.0,666746
+2022-12,Seasonal naive + last YoY growth,2023-11-01,722527.0,674963
+2022-12,Seasonal naive + last YoY growth,2023-12-01,780618.0,728144
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-01-01,594353.0,609481
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-02-01,585016.0,587988
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-03-01,672677.0,670460
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-04-01,650620.0,652055
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-05-01,698046.0,696485
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-06-01,685503.0,675653
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-07-01,688547.0,668702
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-08-01,698439.0,689161
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-09-01,657967.0,652547
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-10-01,682435.0,666746
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-11-01,691194.0,674963
+2022-12,"SARIMA(0,1,1)(0,1,1)12, log",2023-12-01,768605.0,728144
+2022-12,SARIMA + COVID dummies,2023-01-01,597114.0,609481
+2022-12,SARIMA + COVID dummies,2023-02-01,590934.0,587988
+2022-12,SARIMA + COVID dummies,2023-03-01,685669.0,670460
+2022-12,SARIMA + COVID dummies,2023-04-01,675220.0,652055
+2022-12,SARIMA + COVID dummies,2023-05-01,713620.0,696485
+2022-12,SARIMA + COVID dummies,2023-06-01,694326.0,675653
+2022-12,SARIMA + COVID dummies,2023-07-01,696343.0,668702
+2022-12,SARIMA + COVID dummies,2023-08-01,707024.0,689161
+2022-12,SARIMA + COVID dummies,2023-09-01,665397.0,652547
+2022-12,SARIMA + COVID dummies,2023-10-01,691426.0,666746
+2022-12,SARIMA + COVID dummies,2023-11-01,703045.0,674963
+2022-12,SARIMA + COVID dummies,2023-12-01,771925.0,728144
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-01-01,592607.0,609481
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-02-01,580962.0,587988
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-03-01,664967.0,670460
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-04-01,640185.0,652055
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-05-01,684585.0,696485
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-06-01,668345.0,675653
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-07-01,667430.0,668702
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-08-01,676297.0,689161
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-09-01,635168.0,652547
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-10-01,654122.0,666746
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-11-01,658651.0,674963
+2022-12,"Holt-Winters (add. trend, mult. season)",2023-12-01,740811.0,728144
+2022-12,"ETS damped trend, mult. season",2023-01-01,593343.0,609481
+2022-12,"ETS damped trend, mult. season",2023-02-01,582033.0,587988
+2022-12,"ETS damped trend, mult. season",2023-03-01,666630.0,670460
+2022-12,"ETS damped trend, mult. season",2023-04-01,642079.0,652055
+2022-12,"ETS damped trend, mult. season",2023-05-01,687040.0,696485
+2022-12,"ETS damped trend, mult. season",2023-06-01,671101.0,675653
+2022-12,"ETS damped trend, mult. season",2023-07-01,670487.0,668702
+2022-12,"ETS damped trend, mult. season",2023-08-01,679710.0,689161
+2022-12,"ETS damped trend, mult. season",2023-09-01,638715.0,652547
+2022-12,"ETS damped trend, mult. season",2023-10-01,658078.0,666746
+2022-12,"ETS damped trend, mult. season",2023-11-01,662912.0,674963
+2022-12,"ETS damped trend, mult. season",2023-12-01,745971.0,728144
+2023-12,Naive (last month),2024-01-01,728144.0,603091
+2023-12,Naive (last month),2024-02-01,728144.0,611376
+2023-12,Naive (last month),2024-03-01,728144.0,671159
+2023-12,Naive (last month),2024-04-01,728144.0,664415
+2023-12,Naive (last month),2024-05-01,728144.0,705583
+2023-12,Naive (last month),2024-06-01,728144.0,664197
+2023-12,Naive (last month),2024-07-01,728144.0,688322
+2023-12,Naive (last month),2024-08-01,728144.0,694625
+2023-12,Naive (last month),2024-09-01,728144.0,646460
+2023-12,Naive (last month),2024-10-01,728144.0,691772
+2023-12,Naive (last month),2024-11-01,728144.0,694948
+2023-12,Naive (last month),2024-12-01,728144.0,754951
+2023-12,Seasonal naive (same month last year),2024-01-01,609481.0,603091
+2023-12,Seasonal naive (same month last year),2024-02-01,587988.0,611376
+2023-12,Seasonal naive (same month last year),2024-03-01,670460.0,671159
+2023-12,Seasonal naive (same month last year),2024-04-01,652055.0,664415
+2023-12,Seasonal naive (same month last year),2024-05-01,696485.0,705583
+2023-12,Seasonal naive (same month last year),2024-06-01,675653.0,664197
+2023-12,Seasonal naive (same month last year),2024-07-01,668702.0,688322
+2023-12,Seasonal naive (same month last year),2024-08-01,689161.0,694625
+2023-12,Seasonal naive (same month last year),2024-09-01,652547.0,646460
+2023-12,Seasonal naive (same month last year),2024-10-01,666746.0,691772
+2023-12,Seasonal naive (same month last year),2024-11-01,674963.0,694948
+2023-12,Seasonal naive (same month last year),2024-12-01,728144.0,754951
+2023-12,Seasonal naive + last YoY growth,2024-01-01,616994.0,603091
+2023-12,Seasonal naive + last YoY growth,2024-02-01,595236.0,611376
+2023-12,Seasonal naive + last YoY growth,2024-03-01,678724.0,671159
+2023-12,Seasonal naive + last YoY growth,2024-04-01,660093.0,664415
+2023-12,Seasonal naive + last YoY growth,2024-05-01,705070.0,705583
+2023-12,Seasonal naive + last YoY growth,2024-06-01,683981.0,664197
+2023-12,Seasonal naive + last YoY growth,2024-07-01,676945.0,688322
+2023-12,Seasonal naive + last YoY growth,2024-08-01,697656.0,694625
+2023-12,Seasonal naive + last YoY growth,2024-09-01,660591.0,646460
+2023-12,Seasonal naive + last YoY growth,2024-10-01,674965.0,691772
+2023-12,Seasonal naive + last YoY growth,2024-11-01,683283.0,694948
+2023-12,Seasonal naive + last YoY growth,2024-12-01,737119.0,754951
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-01-01,606039.0,603091
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-02-01,594228.0,611376
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-03-01,682448.0,671159
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-04-01,660652.0,664415
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-05-01,708313.0,705583
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-06-01,694171.0,664197
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-07-01,695363.0,688322
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-08-01,707292.0,694625
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-09-01,667040.0,646460
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-10-01,690027.0,691772
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-11-01,698778.0,694948
+2023-12,"SARIMA(0,1,1)(0,1,1)12, log",2024-12-01,772344.0,754951
+2023-12,SARIMA + COVID dummies,2024-01-01,609746.0,603091
+2023-12,SARIMA + COVID dummies,2024-02-01,598467.0,611376
+2023-12,SARIMA + COVID dummies,2024-03-01,690653.0,671159
+2023-12,SARIMA + COVID dummies,2024-04-01,677604.0,664415
+2023-12,SARIMA + COVID dummies,2024-05-01,718964.0,705583
+2023-12,SARIMA + COVID dummies,2024-06-01,699290.0,664197
+2023-12,SARIMA + COVID dummies,2024-07-01,698330.0,688322
+2023-12,SARIMA + COVID dummies,2024-08-01,712136.0,694625
+2023-12,SARIMA + COVID dummies,2024-09-01,671473.0,646460
+2023-12,SARIMA + COVID dummies,2024-10-01,694125.0,691772
+2023-12,SARIMA + COVID dummies,2024-11-01,704798.0,694948
+2023-12,SARIMA + COVID dummies,2024-12-01,769194.0,754951
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-01-01,607050.0,603091
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-02-01,592194.0,611376
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-03-01,679175.0,671159
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-04-01,654150.0,664415
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-05-01,698863.0,705583
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-06-01,682144.0,664197
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-07-01,680106.0,688322
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-08-01,690595.0,694625
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-09-01,649210.0,646460
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-10-01,667463.0,691772
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-11-01,672607.0,694948
+2023-12,"Holt-Winters (add. trend, mult. season)",2024-12-01,749584.0,754951
+2023-12,"ETS damped trend, mult. season",2024-01-01,607494.0,603091
+2023-12,"ETS damped trend, mult. season",2024-02-01,592867.0,611376
+2023-12,"ETS damped trend, mult. season",2024-03-01,680216.0,671159
+2023-12,"ETS damped trend, mult. season",2024-04-01,655368.0,664415
+2023-12,"ETS damped trend, mult. season",2024-05-01,700467.0,705583
+2023-12,"ETS damped trend, mult. season",2024-06-01,683930.0,664197
+2023-12,"ETS damped trend, mult. season",2024-07-01,682087.0,688322
+2023-12,"ETS damped trend, mult. season",2024-08-01,692818.0,694625
+2023-12,"ETS damped trend, mult. season",2024-09-01,651496.0,646460
+2023-12,"ETS damped trend, mult. season",2024-10-01,669983.0,691772
+2023-12,"ETS damped trend, mult. season",2024-11-01,675299.0,694948
+2023-12,"ETS damped trend, mult. season",2024-12-01,752875.0,754951
+2024-12,Naive (last month),2025-01-01,754951.0,629000
+2024-12,Naive (last month),2025-02-01,754951.0,605151
+2024-12,Naive (last month),2025-03-01,754951.0,698449
+2024-12,Naive (last month),2025-04-01,754951.0,696120
+2024-12,Naive (last month),2025-05-01,754951.0,723761
+2024-12,Naive (last month),2025-06-01,754951.0,688978
+2024-12,Naive (last month),2025-07-01,754951.0,715687
+2024-12,Naive (last month),2025-08-01,754951.0,715547
+2024-12,Naive (last month),2025-09-01,754951.0,680630
+2024-12,Naive (last month),2025-10-01,754951.0,712145
+2024-12,Naive (last month),2025-11-01,754951.0,704758
+2024-12,Naive (last month),2025-12-01,754951.0,780707
+2024-12,Seasonal naive (same month last year),2025-01-01,603091.0,629000
+2024-12,Seasonal naive (same month last year),2025-02-01,611376.0,605151
+2024-12,Seasonal naive (same month last year),2025-03-01,671159.0,698449
+2024-12,Seasonal naive (same month last year),2025-04-01,664415.0,696120
+2024-12,Seasonal naive (same month last year),2025-05-01,705583.0,723761
+2024-12,Seasonal naive (same month last year),2025-06-01,664197.0,688978
+2024-12,Seasonal naive (same month last year),2025-07-01,688322.0,715687
+2024-12,Seasonal naive (same month last year),2025-08-01,694625.0,715547
+2024-12,Seasonal naive (same month last year),2025-09-01,646460.0,680630
+2024-12,Seasonal naive (same month last year),2025-10-01,691772.0,712145
+2024-12,Seasonal naive (same month last year),2025-11-01,694948.0,704758
+2024-12,Seasonal naive (same month last year),2025-12-01,754951.0,780707
+2024-12,Seasonal naive + last YoY growth,2025-01-01,612056.0,629000
+2024-12,Seasonal naive + last YoY growth,2025-02-01,620464.0,605151
+2024-12,Seasonal naive + last YoY growth,2025-03-01,681136.0,698449
+2024-12,Seasonal naive + last YoY growth,2025-04-01,674292.0,696120
+2024-12,Seasonal naive + last YoY growth,2025-05-01,716072.0,723761
+2024-12,Seasonal naive + last YoY growth,2025-06-01,674071.0,688978
+2024-12,Seasonal naive + last YoY growth,2025-07-01,698554.0,715687
+2024-12,Seasonal naive + last YoY growth,2025-08-01,704951.0,715547
+2024-12,Seasonal naive + last YoY growth,2025-09-01,656070.0,680630
+2024-12,Seasonal naive + last YoY growth,2025-10-01,702056.0,712145
+2024-12,Seasonal naive + last YoY growth,2025-11-01,705279.0,704758
+2024-12,Seasonal naive + last YoY growth,2025-12-01,766174.0,780707
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-01-01,624671.0,629000
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-02-01,616246.0,605151
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-03-01,701961.0,698449
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-04-01,682289.0,696120
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-05-01,730236.0,723761
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-06-01,710487.0,688978
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-07-01,716072.0,715687
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-08-01,727352.0,715547
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-09-01,684267.0,680630
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-10-01,712132.0,712145
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-11-01,720155.0,704758
+2024-12,"SARIMA(0,1,1)(0,1,1)12, log",2025-12-01,793811.0,780707
+2024-12,SARIMA + COVID dummies,2025-01-01,625636.0,629000
+2024-12,SARIMA + COVID dummies,2025-02-01,620150.0,605151
+2024-12,SARIMA + COVID dummies,2025-03-01,704971.0,698449
+2024-12,SARIMA + COVID dummies,2025-04-01,693540.0,696120
+2024-12,SARIMA + COVID dummies,2025-05-01,735756.0,723761
+2024-12,SARIMA + COVID dummies,2025-06-01,708755.0,688978
+2024-12,SARIMA + COVID dummies,2025-07-01,715976.0,715687
+2024-12,SARIMA + COVID dummies,2025-08-01,728090.0,715547
+2024-12,SARIMA + COVID dummies,2025-09-01,683788.0,680630
+2024-12,SARIMA + COVID dummies,2025-10-01,713894.0,712145
+2024-12,SARIMA + COVID dummies,2025-11-01,723006.0,704758
+2024-12,SARIMA + COVID dummies,2025-12-01,789244.0,780707
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-01-01,627569.0,629000
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-02-01,616103.0,605151
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-03-01,700472.0,698449
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-04-01,678897.0,696120
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-05-01,723721.0,723761
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-06-01,703038.0,688978
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-07-01,706638.0,715687
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-08-01,715646.0,715547
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-09-01,671649.0,680630
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-10-01,694957.0,712145
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-11-01,698279.0,704758
+2024-12,"Holt-Winters (add. trend, mult. season)",2025-12-01,774040.0,780707
+2024-12,"ETS damped trend, mult. season",2025-01-01,628015.0,629000
+2024-12,"ETS damped trend, mult. season",2025-02-01,616779.0,605151
+2024-12,"ETS damped trend, mult. season",2025-03-01,701501.0,698449
+2024-12,"ETS damped trend, mult. season",2025-04-01,680111.0,696120
+2024-12,"ETS damped trend, mult. season",2025-05-01,725293.0,723761
+2024-12,"ETS damped trend, mult. season",2025-06-01,704790.0,688978
+2024-12,"ETS damped trend, mult. season",2025-07-01,708600.0,715687
+2024-12,"ETS damped trend, mult. season",2025-08-01,717825.0,715547
+2024-12,"ETS damped trend, mult. season",2025-09-01,673875.0,680630
+2024-12,"ETS damped trend, mult. season",2025-10-01,697421.0,712145
+2024-12,"ETS damped trend, mult. season",2025-11-01,700893.0,704758
+2024-12,"ETS damped trend, mult. season",2025-12-01,777193.0,780707
+2019-12,Naive (last month),2020-01-01,575668.0,472427
+2019-12,Naive (last month),2020-02-01,575668.0,470835
+2019-12,Naive (last month),2020-03-01,575668.0,468661
+2019-12,Naive (last month),2020-04-01,575668.0,402995
+2019-12,Naive (last month),2020-05-01,575668.0,499442
+2019-12,Naive (last month),2020-06-01,575668.0,524829
+2019-12,Naive (last month),2020-07-01,575668.0,540141
+2019-12,Naive (last month),2020-08-01,575668.0,536756
+2019-12,Naive (last month),2020-09-01,575668.0,522045
+2019-12,Naive (last month),2020-10-01,575668.0,543475
+2019-12,Naive (last month),2020-11-01,575668.0,533981
+2019-12,Naive (last month),2020-12-01,575668.0,599783
+2019-12,Seasonal naive (same month last year),2020-01-01,447933.0,472427
+2019-12,Seasonal naive (same month last year),2020-02-01,433826.0,470835
+2019-12,Seasonal naive (same month last year),2020-03-01,504478.0,468661
+2019-12,Seasonal naive (same month last year),2020-04-01,497579.0,402995
+2019-12,Seasonal naive (same month last year),2020-05-01,534165.0,499442
+2019-12,Seasonal naive (same month last year),2020-06-01,505762.0,524829
+2019-12,Seasonal naive (same month last year),2020-07-01,519231.0,540141
+2019-12,Seasonal naive (same month last year),2020-08-01,532426.0,536756
+2019-12,Seasonal naive (same month last year),2020-09-01,483841.0,522045
+2019-12,Seasonal naive (same month last year),2020-10-01,512356.0,543475
+2019-12,Seasonal naive (same month last year),2020-11-01,522446.0,533981
+2019-12,Seasonal naive (same month last year),2020-12-01,575668.0,599783
+2019-12,Seasonal naive + last YoY growth,2020-01-01,462301.0,472427
+2019-12,Seasonal naive + last YoY growth,2020-02-01,447741.0,470835
+2019-12,Seasonal naive + last YoY growth,2020-03-01,520659.0,468661
+2019-12,Seasonal naive + last YoY growth,2020-04-01,513539.0,402995
+2019-12,Seasonal naive + last YoY growth,2020-05-01,551299.0,499442
+2019-12,Seasonal naive + last YoY growth,2020-06-01,521985.0,524829
+2019-12,Seasonal naive + last YoY growth,2020-07-01,535886.0,540141
+2019-12,Seasonal naive + last YoY growth,2020-08-01,549504.0,536756
+2019-12,Seasonal naive + last YoY growth,2020-09-01,499360.0,522045
+2019-12,Seasonal naive + last YoY growth,2020-10-01,528790.0,543475
+2019-12,Seasonal naive + last YoY growth,2020-11-01,539204.0,533981
+2019-12,Seasonal naive + last YoY growth,2020-12-01,594133.0,599783
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-01-01,465317.0,472427
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-02-01,459505.0,470835
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-03-01,527656.0,468661
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-04-01,513463.0,402995
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-05-01,548562.0,499442
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-06-01,528120.0,524829
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-07-01,532059.0,540141
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-08-01,544856.0,536756
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-09-01,506108.0,522045
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-10-01,525607.0,543475
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-11-01,537430.0,533981
+2019-12,"SARIMA(0,1,1)(0,1,1)12, log",2020-12-01,600683.0,599783
+2019-12,SARIMA + COVID dummies,2020-01-01,465317.0,472427
+2019-12,SARIMA + COVID dummies,2020-02-01,459505.0,470835
+2019-12,SARIMA + COVID dummies,2020-03-01,527656.0,468661
+2019-12,SARIMA + COVID dummies,2020-04-01,513463.0,402995
+2019-12,SARIMA + COVID dummies,2020-05-01,548562.0,499442
+2019-12,SARIMA + COVID dummies,2020-06-01,528120.0,524829
+2019-12,SARIMA + COVID dummies,2020-07-01,532059.0,540141
+2019-12,SARIMA + COVID dummies,2020-08-01,544856.0,536756
+2019-12,SARIMA + COVID dummies,2020-09-01,506108.0,522045
+2019-12,SARIMA + COVID dummies,2020-10-01,525607.0,543475
+2019-12,SARIMA + COVID dummies,2020-11-01,537430.0,533981
+2019-12,SARIMA + COVID dummies,2020-12-01,600683.0,599783
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-01-01,465883.0,472427
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-02-01,459392.0,470835
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-03-01,530422.0,468661
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-04-01,514248.0,402995
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-05-01,548981.0,499442
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-06-01,525260.0,524829
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-07-01,529003.0,540141
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-08-01,540625.0,536756
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-09-01,500873.0,522045
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-10-01,521631.0,543475
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-11-01,531129.0,533981
+2019-12,"Holt-Winters (add. trend, mult. season)",2020-12-01,590337.0,599783
+2019-12,"ETS damped trend, mult. season",2020-01-01,466146.0,472427
+2019-12,"ETS damped trend, mult. season",2020-02-01,459869.0,470835
+2019-12,"ETS damped trend, mult. season",2020-03-01,531069.0,468661
+2019-12,"ETS damped trend, mult. season",2020-04-01,515016.0,402995
+2019-12,"ETS damped trend, mult. season",2020-05-01,549862.0,499442
+2019-12,"ETS damped trend, mult. season",2020-06-01,526236.0,524829
+2019-12,"ETS damped trend, mult. season",2020-07-01,530070.0,540141
+2019-12,"ETS damped trend, mult. season",2020-08-01,541820.0,536756
+2019-12,"ETS damped trend, mult. season",2020-09-01,502146.0,522045
+2019-12,"ETS damped trend, mult. season",2020-10-01,522967.0,543475
+2019-12,"ETS damped trend, mult. season",2020-11-01,532498.0,533981
+2019-12,"ETS damped trend, mult. season",2020-12-01,592139.0,599783
+2021-12,Naive (last month),2022-01-01,688202.0,572890
+2021-12,Naive (last month),2022-02-01,688202.0,566039
+2021-12,Naive (last month),2022-03-01,688202.0,666105
+2021-12,Naive (last month),2022-04-01,688202.0,665943
+2021-12,Naive (last month),2022-05-01,688202.0,687716
+2021-12,Naive (last month),2022-06-01,688202.0,678285
+2021-12,Naive (last month),2022-07-01,688202.0,669553
+2021-12,Naive (last month),2022-08-01,688202.0,681612
+2021-12,Naive (last month),2022-09-01,688202.0,643382
+2021-12,Naive (last month),2022-10-01,688202.0,663619
+2021-12,Naive (last month),2022-11-01,688202.0,663414
+2021-12,Naive (last month),2022-12-01,688202.0,716752
+2021-12,Seasonal naive (same month last year),2022-01-01,507696.0,572890
+2021-12,Seasonal naive (same month last year),2022-02-01,480955.0,566039
+2021-12,Seasonal naive (same month last year),2022-03-01,617065.0,666105
+2021-12,Seasonal naive (same month last year),2022-04-01,612791.0,665943
+2021-12,Seasonal naive (same month last year),2022-05-01,628676.0,687716
+2021-12,Seasonal naive (same month last year),2022-06-01,620677.0,678285
+2021-12,Seasonal naive (same month last year),2022-07-01,619294.0,669553
+2021-12,Seasonal naive (same month last year),2022-08-01,614617.0,681612
+2021-12,Seasonal naive (same month last year),2022-09-01,590383.0,643382
+2021-12,Seasonal naive (same month last year),2022-10-01,617603.0,663619
+2021-12,Seasonal naive (same month last year),2022-11-01,633037.0,663414
+2021-12,Seasonal naive (same month last year),2022-12-01,688202.0,716752
+2021-12,Seasonal naive + last YoY growth,2022-01-01,600315.0,572890
+2021-12,Seasonal naive + last YoY growth,2022-02-01,568696.0,566039
+2021-12,Seasonal naive + last YoY growth,2022-03-01,729636.0,666105
+2021-12,Seasonal naive + last YoY growth,2022-04-01,724582.0,665943
+2021-12,Seasonal naive + last YoY growth,2022-05-01,743365.0,687716
+2021-12,Seasonal naive + last YoY growth,2022-06-01,733907.0,678285
+2021-12,Seasonal naive + last YoY growth,2022-07-01,732272.0,669553
+2021-12,Seasonal naive + last YoY growth,2022-08-01,726741.0,681612
+2021-12,Seasonal naive + last YoY growth,2022-09-01,698086.0,643382
+2021-12,Seasonal naive + last YoY growth,2022-10-01,730272.0,663619
+2021-12,Seasonal naive + last YoY growth,2022-11-01,748522.0,663414
+2021-12,Seasonal naive + last YoY growth,2022-12-01,813751.0,716752
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-01-01,563952.0,572890
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-02-01,554666.0,566039
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-03-01,634594.0,666105
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-04-01,609483.0,665943
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-05-01,659245.0,687716
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-06-01,646778.0,678285
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-07-01,652069.0,669553
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-08-01,660949.0,681612
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-09-01,622366.0,643382
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-10-01,646262.0,663619
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-11-01,656390.0,663414
+2021-12,"SARIMA(0,1,1)(0,1,1)12, log",2022-12-01,734491.0,716752
+2021-12,SARIMA + COVID dummies,2022-01-01,562135.0,572890
+2021-12,SARIMA + COVID dummies,2022-02-01,556737.0,566039
+2021-12,SARIMA + COVID dummies,2022-03-01,640314.0,666105
+2021-12,SARIMA + COVID dummies,2022-04-01,624551.0,665943
+2021-12,SARIMA + COVID dummies,2022-05-01,669077.0,687716
+2021-12,SARIMA + COVID dummies,2022-06-01,645150.0,678285
+2021-12,SARIMA + COVID dummies,2022-07-01,654193.0,669553
+2021-12,SARIMA + COVID dummies,2022-08-01,663932.0,681612
+2021-12,SARIMA + COVID dummies,2022-09-01,623498.0,643382
+2021-12,SARIMA + COVID dummies,2022-10-01,649804.0,663619
+2021-12,SARIMA + COVID dummies,2022-11-01,665493.0,663414
+2021-12,SARIMA + COVID dummies,2022-12-01,737323.0,716752
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-01-01,554817.0,572890
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-02-01,548232.0,566039
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-03-01,623010.0,666105
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-04-01,605496.0,665943
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-05-01,644400.0,687716
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-06-01,628191.0,678285
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-07-01,630243.0,669553
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-08-01,640590.0,681612
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-09-01,598811.0,643382
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-10-01,618426.0,663619
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-11-01,626182.0,663414
+2021-12,"Holt-Winters (add. trend, mult. season)",2022-12-01,710961.0,716752
+2021-12,"ETS damped trend, mult. season",2022-01-01,555704.0,572890
+2021-12,"ETS damped trend, mult. season",2022-02-01,549522.0,566039
+2021-12,"ETS damped trend, mult. season",2022-03-01,625096.0,666105
+2021-12,"ETS damped trend, mult. season",2022-04-01,608017.0,665943
+2021-12,"ETS damped trend, mult. season",2022-05-01,647651.0,687716
+2021-12,"ETS damped trend, mult. season",2022-06-01,631863.0,678285
+2021-12,"ETS damped trend, mult. season",2022-07-01,634439.0,669553
+2021-12,"ETS damped trend, mult. season",2022-08-01,645376.0,681612
+2021-12,"ETS damped trend, mult. season",2022-09-01,603701.0,643382
+2021-12,"ETS damped trend, mult. season",2022-10-01,623947.0,663619
+2021-12,"ETS damped trend, mult. season",2022-11-01,632232.0,663414
+2021-12,"ETS damped trend, mult. season",2022-12-01,718438.0,716752

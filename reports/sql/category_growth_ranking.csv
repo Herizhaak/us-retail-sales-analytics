@@ -1,0 +1,17 @@
+rank,naics_code,category,sales_2019_busd,sales_2025_busd,growth_pct,cagr_pct
+1,4541,Electronic shopping and mail order,639.4,1278.5,99.9,12.2
+2,454,Nonstore retailers,706.7,1360.0,92.4,11.5
+3,453,Miscellaneous stores,118.5,169.6,43.2,6.2
+4,446,Health and personal care,337.6,472.3,39.9,5.8
+5,722,Food services and drinking places,740.1,1032.7,39.5,5.7
+6,44X72,"Retail and food services, total",6069.7,8350.9,37.6,5.5
+7,44000,"Retail, total",5329.6,7318.2,37.3,5.4
+8,444,Building materials and garden,376.2,505.3,34.3,5.0
+9,445,Food and beverage stores,765.1,1006.3,31.5,4.7
+10,441,Motor vehicles and parts,1243.2,1624.6,30.7,4.6
+11,451,"Sporting goods, hobby, music, books",74.5,95.2,27.8,4.2
+12,452,General merchandise,736.4,938.1,27.4,4.1
+13,447,Gasoline stations,509.5,633.7,24.4,3.7
+14,448,Clothing and accessories,257.1,299.9,16.7,2.6
+15,442,Furniture and home furnishings,116.8,127.3,9.0,1.5
+16,443,Electronics and appliances,87.9,86.0,-2.2,-0.4

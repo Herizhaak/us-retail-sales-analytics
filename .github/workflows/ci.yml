@@ -1,0 +1,19 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: src
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install -r requirements.txt
+      - run: ruff check src tests
+      - run: pytest -q
+      # end to end on the committed extract (no network needed)
+      - run: python -m retail.sql_report > /dev/null
+      - run: python -m retail.forecast
+      - run: python -m retail.dashboard

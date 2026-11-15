@@ -1,0 +1,193 @@
+naics_code,category,month,seasonal_index
+44000,"Retail, total",1,89.1
+44000,"Retail, total",2,87.5
+44000,"Retail, total",3,100.3
+44000,"Retail, total",4,98.3
+44000,"Retail, total",5,104.3
+44000,"Retail, total",6,100.7
+44000,"Retail, total",7,101.5
+44000,"Retail, total",8,103.4
+44000,"Retail, total",9,96.9
+44000,"Retail, total",10,100.6
+44000,"Retail, total",11,102.9
+44000,"Retail, total",12,114.3
+441,Motor vehicles and parts,1,87.3
+441,Motor vehicles and parts,2,90.3
+441,Motor vehicles and parts,3,107.5
+441,Motor vehicles and parts,4,102.4
+441,Motor vehicles and parts,5,106.5
+441,Motor vehicles and parts,6,102.2
+441,Motor vehicles and parts,7,103.8
+441,Motor vehicles and parts,8,107.3
+441,Motor vehicles and parts,9,98.3
+441,Motor vehicles and parts,10,99.0
+441,Motor vehicles and parts,11,94.7
+441,Motor vehicles and parts,12,100.9
+442,Furniture and home furnishings,1,90.1
+442,Furniture and home furnishings,2,89.5
+442,Furniture and home furnishings,3,101.8
+442,Furniture and home furnishings,4,95.4
+442,Furniture and home furnishings,5,101.3
+442,Furniture and home furnishings,6,98.3
+442,Furniture and home furnishings,7,100.1
+442,Furniture and home furnishings,8,104.3
+442,Furniture and home furnishings,9,99.9
+442,Furniture and home furnishings,10,99.6
+442,Furniture and home furnishings,11,107.9
+442,Furniture and home furnishings,12,111.9
+443,Electronics and appliances,1,94.0
+443,Electronics and appliances,2,89.9
+443,Electronics and appliances,3,96.7
+443,Electronics and appliances,4,88.4
+443,Electronics and appliances,5,94.9
+443,Electronics and appliances,6,94.7
+443,Electronics and appliances,7,95.7
+443,Electronics and appliances,8,99.4
+443,Electronics and appliances,9,95.1
+443,Electronics and appliances,10,94.1
+443,Electronics and appliances,11,117.7
+443,Electronics and appliances,12,139.5
+444,Building materials and garden,1,79.7
+444,Building materials and garden,2,78.3
+444,Building materials and garden,3,99.1
+444,Building materials and garden,4,109.1
+444,Building materials and garden,5,120.3
+444,Building materials and garden,6,112.3
+444,Building materials and garden,7,106.1
+444,Building materials and garden,8,103.8
+444,Building materials and garden,9,98.5
+444,Building materials and garden,10,103.5
+444,Building materials and garden,11,97.1
+444,Building materials and garden,12,92.2
+445,Food and beverage stores,1,96.9
+445,Food and beverage stores,2,90.4
+445,Food and beverage stores,3,99.2
+445,Food and beverage stores,4,96.8
+445,Food and beverage stores,5,102.6
+445,Food and beverage stores,6,99.7
+445,Food and beverage stores,7,102.4
+445,Food and beverage stores,8,101.7
+445,Food and beverage stores,9,98.0
+445,Food and beverage stores,10,100.7
+445,Food and beverage stores,11,102.0
+445,Food and beverage stores,12,109.5
+446,Health and personal care,1,96.8
+446,Health and personal care,2,92.1
+446,Health and personal care,3,100.7
+446,Health and personal care,4,97.2
+446,Health and personal care,5,100.5
+446,Health and personal care,6,98.5
+446,Health and personal care,7,98.0
+446,Health and personal care,8,101.3
+446,Health and personal care,9,99.1
+446,Health and personal care,10,103.5
+446,Health and personal care,11,99.7
+446,Health and personal care,12,112.6
+447,Gasoline stations,1,87.4
+447,Gasoline stations,2,84.6
+447,Gasoline stations,3,98.3
+447,Gasoline stations,4,100.3
+447,Gasoline stations,5,108.5
+447,Gasoline stations,6,107.7
+447,Gasoline stations,7,109.2
+447,Gasoline stations,8,108.4
+447,Gasoline stations,9,101.8
+447,Gasoline stations,10,104.7
+447,Gasoline stations,11,95.8
+447,Gasoline stations,12,93.2
+448,Clothing and accessories,1,72.7
+448,Clothing and accessories,2,82.0
+448,Clothing and accessories,3,97.6
+448,Clothing and accessories,4,95.0
+448,Clothing and accessories,5,103.3
+448,Clothing and accessories,6,94.6
+448,Clothing and accessories,7,97.1
+448,Clothing and accessories,8,104.3
+448,Clothing and accessories,9,89.9
+448,Clothing and accessories,10,95.6
+448,Clothing and accessories,11,111.9
+448,Clothing and accessories,12,156.2
+44X72,"Retail and food services, total",1,89.2
+44X72,"Retail and food services, total",2,87.9
+44X72,"Retail and food services, total",3,100.6
+44X72,"Retail and food services, total",4,98.6
+44X72,"Retail and food services, total",5,104.5
+44X72,"Retail and food services, total",6,100.8
+44X72,"Retail and food services, total",7,101.7
+44X72,"Retail and food services, total",8,103.5
+44X72,"Retail and food services, total",9,97.2
+44X72,"Retail and food services, total",10,100.8
+44X72,"Retail and food services, total",11,102.2
+44X72,"Retail and food services, total",12,113.0
+451,"Sporting goods, hobby, music, books",1,85.8
+451,"Sporting goods, hobby, music, books",2,79.6
+451,"Sporting goods, hobby, music, books",3,96.3
+451,"Sporting goods, hobby, music, books",4,91.2
+451,"Sporting goods, hobby, music, books",5,96.1
+451,"Sporting goods, hobby, music, books",6,98.6
+451,"Sporting goods, hobby, music, books",7,96.9
+451,"Sporting goods, hobby, music, books",8,109.8
+451,"Sporting goods, hobby, music, books",9,94.5
+451,"Sporting goods, hobby, music, books",10,92.4
+451,"Sporting goods, hobby, music, books",11,109.3
+451,"Sporting goods, hobby, music, books",12,149.4
+452,General merchandise,1,88.4
+452,General merchandise,2,87.2
+452,General merchandise,3,97.7
+452,General merchandise,4,95.5
+452,General merchandise,5,101.7
+452,General merchandise,6,98.9
+452,General merchandise,7,99.1
+452,General merchandise,8,102.1
+452,General merchandise,9,93.9
+452,General merchandise,10,99.8
+452,General merchandise,11,108.0
+452,General merchandise,12,127.8
+453,Miscellaneous stores,1,85.5
+453,Miscellaneous stores,2,84.8
+453,Miscellaneous stores,3,96.2
+453,Miscellaneous stores,4,96.9
+453,Miscellaneous stores,5,110.0
+453,Miscellaneous stores,6,105.1
+453,Miscellaneous stores,7,102.0
+453,Miscellaneous stores,8,104.1
+453,Miscellaneous stores,9,99.5
+453,Miscellaneous stores,10,106.6
+453,Miscellaneous stores,11,100.1
+453,Miscellaneous stores,12,109.2
+454,Nonstore retailers,1,92.8
+454,Nonstore retailers,2,87.6
+454,Nonstore retailers,3,96.5
+454,Nonstore retailers,4,93.5
+454,Nonstore retailers,5,97.4
+454,Nonstore retailers,6,93.4
+454,Nonstore retailers,7,95.7
+454,Nonstore retailers,8,97.0
+454,Nonstore retailers,9,93.5
+454,Nonstore retailers,10,100.8
+454,Nonstore retailers,11,115.9
+454,Nonstore retailers,12,136.0
+4541,Electronic shopping and mail order,1,89.3
+4541,Electronic shopping and mail order,2,84.7
+4541,Electronic shopping and mail order,3,94.7
+4541,Electronic shopping and mail order,4,93.4
+4541,Electronic shopping and mail order,5,98.1
+4541,Electronic shopping and mail order,6,94.4
+4541,Electronic shopping and mail order,7,97.2
+4541,Electronic shopping and mail order,8,98.2
+4541,Electronic shopping and mail order,9,94.3
+4541,Electronic shopping and mail order,10,100.9
+4541,Electronic shopping and mail order,11,117.1
+4541,Electronic shopping and mail order,12,137.7
+722,Food services and drinking places,1,89.8
+722,Food services and drinking places,2,90.3
+722,Food services and drinking places,3,102.9
+722,Food services and drinking places,4,100.6
+722,Food services and drinking places,5,105.5
+722,Food services and drinking places,6,102.0
+722,Food services and drinking places,7,102.8
+722,Food services and drinking places,8,103.8
+722,Food services and drinking places,9,99.0
+722,Food services and drinking places,10,102.3
+722,Food services and drinking places,11,97.2
+722,Food services and drinking places,12,103.7
